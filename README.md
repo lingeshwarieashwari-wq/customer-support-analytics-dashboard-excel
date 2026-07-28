@@ -6,7 +6,7 @@ An interactive Customer Support Analytics Dashboard built using Microsoft Excel 
 
 ## 📸 Dashboard Preview
 
-> Replace the image below after uploading `dashboard.png` to the Images folder.
+> Replace the image below after uploading `Dashboard.png` to the Images folder.
 
 ![Dashboard Preview](Images/dashboard.png)
 
