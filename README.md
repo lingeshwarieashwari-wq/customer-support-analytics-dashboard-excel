@@ -66,9 +66,16 @@ An interactive Customer Support Analytics Dashboard built using Microsoft Excel 
 This project demonstrates how Microsoft Excel can be used to transform raw customer support data into meaningful business insights through interactive dashboards.
 
 The dashboard helps management monitor ticket volume, support performance, SLA compliance, and customer satisfaction using Pivot Tables, Pivot Charts, and Excel formulas.
-
 ---
+# 🌟 Project Highlights
 
+- 📊 Built an interactive Excel dashboard to monitor customer support operations.
+- 📈 Analyzed **1,000 customer support tickets** using Pivot Tables and Pivot Charts.
+- 📌 Designed KPI cards for Total Tickets, Closed Tickets, Open Tickets, SLA Compliance, Average CSAT, and Resolution Time.
+- 📅 Tracked monthly ticket trends to identify seasonal patterns.
+- 👨‍💻 Evaluated agent performance to support workload analysis.
+- ⭐ Measured customer satisfaction using CSAT scores.
+- 📉 Visualized ticket categories and priorities for operational insights.
 ## 🎯 Business Problem
 
 Customer support teams handle hundreds of support requests every day. Without proper reporting, it becomes difficult to monitor performance, identify bottlenecks, and improve customer experience.
@@ -167,6 +174,48 @@ customer-support-analytics-dashboard-excel/
 
 ---
 
+# 💼 Business Value
+
+This dashboard helps customer support managers:
+
+- Monitor daily support operations.
+- Track SLA compliance and identify delays.
+- Measure customer satisfaction using CSAT scores.
+- Evaluate agent productivity and workload distribution.
+- Identify high-volume ticket categories.
+- Support data-driven operational decisions.
+  
+---
+
+# 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open the **Customer Support Dashboard.xlsx** file in Microsoft Excel (2019 or later / Microsoft 365 recommended).
+3. Review the **Raw Data** worksheet to understand the dataset.
+4. Explore the **Pivot Tables** worksheet to see how the analysis was performed.
+5. Navigate to the **Dashboard** worksheet to view KPIs and interactive charts.
+6. Use the dashboard to analyze:
+   - Ticket Categories
+   - Ticket Priorities
+   - Monthly Ticket Trends
+   - SLA Compliance
+   - Agent Performance
+   - Customer Satisfaction (CSAT)
+---
+
+# 🧠 What I Learned
+
+This project helped me strengthen my practical skills in:
+
+- Data cleaning and preparation in Microsoft Excel.
+- Creating and using Pivot Tables and Pivot Charts.
+- Designing interactive dashboards with KPIs.
+- Analyzing customer support data to identify trends.
+- Presenting business insights through data visualization.
+- Organizing a professional GitHub repository for portfolio presentation.
+  
+---
+
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
@@ -179,19 +228,24 @@ customer-support-analytics-dashboard-excel/
 
 ---
 
-## 🔮 Future Improvements
+# 🔮 Future Improvements
 
-- Build an interactive Power BI dashboard
-- Perform SQL-based customer support analysis
-- Develop an ML model to predict ticket priority
-- Add automated reporting with Power Query
+- Create an interactive Power BI version of the dashboard.
+- Analyze customer support data using SQL.
+- Automate data preparation with Power Query.
+- Build a Machine Learning model to predict ticket priority.
+- Add forecasting for future ticket volume trends.
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Lingeshwari M**
 
 Aspiring Data Analyst | Data Science & AI Enthusiast
 
-GitHub: https://github.com/lingeshwarieashwari-wq
+📧 Email: lingeshwari.eashwari@gmail.com
+
+🔗 GitHub: https://github.com/lingeshwarieashwari-wq
+
+💼 LinkedIn: https://www.linkedin.com/in/lingeshwari-manthiram-6b2348192/
