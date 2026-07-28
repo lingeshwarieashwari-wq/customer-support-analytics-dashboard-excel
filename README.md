@@ -1,5 +1,11 @@
 # 📊 Customer Support Analytics Dashboard using Microsoft Excel
 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Analytics-blue?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-orange?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-Excel-success?style=for-the-badge)
+![Portfolio Project](https://img.shields.io/badge/Portfolio-Project-purple?style=for-the-badge)
+
 An interactive Customer Support Analytics Dashboard built using Microsoft Excel to analyze support ticket performance, customer satisfaction, SLA compliance, and agent productivity.
 
 ---
