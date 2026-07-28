@@ -17,7 +17,50 @@ An interactive Customer Support Analytics Dashboard built using Microsoft Excel 
 ![Dashboard Preview](Images/dashboard.png)
 
 ---
+---
 
+# 📷 Project Screenshots
+
+## 📊 Dashboard
+
+![Dashboard](Images/Dashboard.png)
+
+---
+
+## 📑 Raw Dataset
+
+![Raw Dataset](Images/Raw-Data.png)
+
+---
+
+## 📈 Pivot Tables
+
+![Pivot Tables](Images/Pivot%20tables.png)
+
+---
+
+## 👨‍💻 Agent Performance
+
+![Agent Performance](Images/Agent-performance.png)
+
+---
+
+## 📅 Monthly Ticket Trend
+
+![Monthly Ticket Trend](Images/monthly-ticket-trend.png)
+
+---
+
+## 🎫 Tickets by Category
+
+![Tickets by Category](Images/tickets-by-category.png)
+
+---
+
+## ⏱️ SLA Compliance
+
+![SLA Compliance](Images/SLA.png)
+---
 ## 📌 Project Overview
 
 This project demonstrates how Microsoft Excel can be used to transform raw customer support data into meaningful business insights through interactive dashboards.
