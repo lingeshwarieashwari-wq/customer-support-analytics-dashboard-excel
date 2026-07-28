@@ -21,9 +21,9 @@ An interactive Customer Support Analytics Dashboard built using Microsoft Excel 
 
 # 📷 Project Screenshots
 
-## 📊 Dashboard
+## 📊 dashboard
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
